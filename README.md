@@ -9,7 +9,7 @@ event (344 arrivals checked in by NFC wristband over two afternoons) and
 now hosts artists' own course pages.
 
 - A themed design system: 15 colour roles, 3 brands, one component library
-- WCAG AA contrast checked in CI on every pull request
+- WCAG AA contrast checked in CI on every pull request ([code](https://github.com/flamingointheweb/design-system-showcase) · [live demo](https://ds.yennyotero.com))
 - Playwright end-to-end tests on the critical journeys
 - Claude in production for on-demand translation and digests
 
